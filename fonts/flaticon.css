@@ -1,0 +1,109 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-3d3:before {
+	content: "\e000";
+}
+.flaticon-blogger9:before {
+	content: "\e001";
+}
+.flaticon-cinema39:before {
+	content: "\e002";
+}
+.flaticon-diaphragm10:before {
+	content: "\e003";
+}
+.flaticon-edit26:before {
+	content: "\e004";
+}
+.flaticon-facebook44:before {
+	content: "\e005";
+}
+.flaticon-facebook7:before {
+	content: "\e006";
+}
+.flaticon-flickr18:before {
+	content: "\e007";
+}
+.flaticon-frontal5:before {
+	content: "\e008";
+}
+.flaticon-google110:before {
+	content: "\e009";
+}
+.flaticon-google14:before {
+	content: "\e00a";
+}
+.flaticon-instagram13:before {
+	content: "\e00b";
+}
+.flaticon-skype4:before {
+	content: "\e00c";
+}
+.flaticon-linkedin2:before {
+	content: "\e00d";
+}
+.flaticon-linkedin21:before {
+	content: "\e00e";
+}
+.flaticon-magnifier12:before {
+	content: "\e00f";
+}
+.flaticon-menu48:before {
+	content: "\e010";
+}
+.flaticon-movie36:before {
+	content: "\e011";
+}
+.flaticon-pinterest27:before {
+	content: "\e012";
+}
+.flaticon-pinterest8:before {
+	content: "\e013";
+}
+.flaticon-shutter:before {
+	content: "\e014";
+}
+.flaticon-soundcloud7:before {
+	content: "\e015";
+}
+.flaticon-tumblr11:before {
+	content: "\e016";
+}
+.flaticon-twitter12:before {
+	content: "\e017";
+}
+.flaticon-twitter37:before {
+	content: "\e018";
+}
+.flaticon-vimeo21:before {
+	content: "\e019";
+}
+.flaticon-vine6:before {
+	content: "\e01a";
+}
+.flaticon-whatsapp:before {
+	content: "\e01b";
+}
+.flaticon-wikipedia6:before {
+	content: "\e01c";
+}
+.flaticon-youtube25:before {
+	content: "\e01d";
+}
+.flaticon-youtube30:before {
+	content: "\e01e";
+}
